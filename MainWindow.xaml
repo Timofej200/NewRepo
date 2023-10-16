@@ -23,7 +23,7 @@
                 
                 <!--Menu Icon-->
                 <Button HorizontalAlignment="Left" Margin="20 28 0 35">
-                    <Icon:PackIconMaterial/>
+                    <Icon:PackIconMaterial/> 
 
                 </Button>
                 
